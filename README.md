@@ -1,11 +1,13 @@
 ## Hi there 👋
+![image](https://github.com/user-attachments/assets/c099eeae-8a31-4b05-9707-006c77034b63)
+
 ## XP_AI Coin: The Collision of Retro and Modern - White Paper
 #Overview
 XP_AI Coin is an innovative Web3 project that combines the nostalgic elements of the classic Windows XP operating system with modern AI technologies, such as ChatGPT. Through the creation of an interactive webpage that mimics the Windows XP desktop environment, users will experience a seamless fusion of the past and the future. In this space, users can interact with an embedded AI assistant (powered by ChatGPT) while engaging with the XP_AI Coin ecosystem.
 
 This project is more than just a meme coin; it’s a platform that offers both entertainment and education, attracting cryptocurrency enthusiasts, nostalgic computing users, and AI technology aficionados alike.
 
-#Vision
+Vision
 The goal of XP_AI Coin is to merge the old-school appeal of Windows XP with cutting-edge AI technology, offering users a new way to engage with cryptocurrency. We aim to allow users to relive the classic Windows XP experience while seamlessly interacting with AI, showcasing how technologies from the past and future can coexist in the Web3 space.
 
 Our mission is to create an ecosystem that blends fun, nostalgia, and future-forward technologies, enriching the user experience with each interaction. By doing so, XP_AI Coin will be positioned at the intersection of entertainment, technology, and decentralized finance.
